@@ -404,7 +404,7 @@ a {
   height: calc(100vw * 0.3);
   width: calc(100vw * 0.3);
 
-  background-image: url('/public/images/logo.png');
+  background-image: url('/images/mima-logo.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10em;
